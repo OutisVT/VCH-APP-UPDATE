@@ -1,11 +1,11 @@
 ﻿{
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMUpyd0IzK2pYZGFLQ2RYRXpScXFPK1ZuN1VSZjk3QjlXalVFejJQYzZ1MjFOdWtLMFZ5c2RqazJHblNwdjJ3VFNYM0gzaGtjTUd6dzBuVWd2ckkxb1JaR3d0RFFIVHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTY1MjE5CWZpbGU6dmNoLWRlc2t0b3AtYXBwbGljYXRpb25fMC4xLjNfeDY0X2VuLVVTLm1zaQpER1RuRVkwaVhKVjNtcHRCNmZldThuaEJaUmxOcGFMZytwTlFSQUU5MUtZa0pwU1dYRldPZDRiejVVV2cwcXJUNVlsR2VkV001alkzMTdMMUNnb0ZBZz09Cg==",
-                                             "url":  "https://github.com/OutisVT/VCH-APP-UPDATE/releases/download/v0.1.3/vch-desktop-application_0.1.3_x64_en-US.msi"
-                                         }
-                  },
-    "pub_date":  "2025-08-14T10:11:57Z",
-    "version":  "0.1.3",
-    "notes":  "Bug fixes and improvements"
+  "version": "0.1.3",
+  "notes": "Bug fixes and improvements for VCH Desktop Application",
+  "pub_date": "2025-08-14T10:59:12Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMUpyd0IzK2pYZFprQmNyL1o3MGY5Z2ZYVFdpVlVMWTZUdFprSDdGVmVYWnJrV1A1SGFHVlVtOFNBUEVSUlNERHd0TEp4bmUycnhSanZPaXM1UjN3akhrbzBicTYvVFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTY4ODM3CWZpbGU6dmNoLWRlc2t0b3AtYXBwbGljYXRpb25fMC4xLjJfeDY0X2VuLVVTLm1zaQpqUmtlV0x5YlJmd2huQm1wbDY4VWRmZ0tacXB5RzNwN1VLaEMxbmZuc2JZU0cvTHdVM3NvU3JQUUdPdEsySXh4NlVBYSttMGVDaWhQQXBoZysrcXdCQT09Cg==",
+      "url": "https://github.com/OutisVT/VCH-APP-UPDATE/releases/download/v0.1.2/vch-desktop-application_0.1.2_x64_en-US.msi"
+    }
+  }
 }
